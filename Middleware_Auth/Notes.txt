@@ -22,3 +22,7 @@ Audience → “Who is allowed to use this token?” → your API
 
 8. Now that we have the token, we will create the UserController 
 
+9. If we are authenticated (using this endpoint with correct jwt token), we will be able to use these.
+
+10. we can use the authorize tag to make it accessible to certain roles only.
+
